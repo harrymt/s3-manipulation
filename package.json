@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Read and remove data from an AWS S3 bucket.",
   "dependencies": {
-    "aws-sdk": "^2.225.1"
+    "aws-sdk": "^2.225.1",
+    "dotenv": "^5.0.1",
+    "uuid": "^3.2.1"
   },
   "devDependencies": {
     "babel-loader": "^7.1.4",
